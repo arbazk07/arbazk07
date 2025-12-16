@@ -1,16 +1,8 @@
 <div align="center">
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arbaz;BS+AI+Student+%40+FAST+NUCES;Explaining+Logic+in+C%2B%2B+%26+Assembly;Building+Physical+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Arbaz+Khan;BS+AI+Student+%40+FAST+NUCES;Passionate+about+writing+efficient+code;Understanding+how+AI+works+under+the+hood" alt="Typing SVG" />
 
-  <br/>
-
-  <p>
-    <b>BS AI Student @ FAST NUCES.</b><br>
-    Passionate about writing efficient code and understanding how AI works under the hood.<br>
-    Moving bits at the low level to build intelligent systems at the high level.
-  </p>
-  
-  <br/>
+  <br/><br/>
 
   <h3>💻 Tech Stack</h3>
 
@@ -28,7 +20,6 @@
   <br/>
 
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
   <br/><br/>
 
